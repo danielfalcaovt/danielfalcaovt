@@ -1,17 +1,19 @@
-<div>
   <h1>Desenvolvedor Fullstack JavaScript</h1>
 
   
 <h2>Atualmente trabalho com estas tecnologias:</h2>
-![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/d99e0617-80b8-4a81-afb2-898a8d292e63)
-![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/ab275e80-e243-4515-b432-9c6c7681f55b)
-![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/4f86843c-6f4e-4096-a725-97b15cdad107)
-![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/e300d91e-7464-4e47-896b-993ab88693a7)
-![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/1eecef8c-92e8-409f-a1ca-47bfb5c46195)
-  
-<h3>Competências extras:</h3>
-![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/f175913e-f55a-4d00-b00f-58a1fe76fd1d)
-![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/303e908e-b0c3-4c1b-80c2-292e74c8ba6d)
-![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/fa68c2b2-3911-420f-ae76-c5e201f62d0a)
-![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/5eada3b4-254f-4015-8067-23e26de1bbf6)
-</div>
+![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/0811fbbf-ce81-4dfe-98eb-742ff1fca4da)
+![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/0ee1aa3d-3e11-4b07-b97a-16853812fbca)
+![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/eb3b6577-ea07-496e-954e-777fea3d64cd)
+![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/cd02697b-850c-4817-aac2-f2344bf9b92d)
+![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/70cf4824-d61e-48f5-b017-66a0c43bc567)
+
+<hr />
+
+<h3>Extras:</h3>
+![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/3c1c019c-f39b-4208-9404-d0c675353b0d)
+![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/995589d3-7a95-4a30-a75e-38aaf9efb2c0)
+![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/fb3d37d1-8a99-4d26-9925-641922275570)
+![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/e33deede-5185-4503-b7ee-aabadd590a9a)
+
+<hr />
