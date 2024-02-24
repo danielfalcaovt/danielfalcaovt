@@ -14,6 +14,5 @@
 ![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/3c1c019c-f39b-4208-9404-d0c675353b0d)
 ![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/995589d3-7a95-4a30-a75e-38aaf9efb2c0)
 ![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/fb3d37d1-8a99-4d26-9925-641922275570)
-![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/e33deede-5185-4503-b7ee-aabadd590a9a)
 
 <hr />
