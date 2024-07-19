@@ -1,4 +1,4 @@
-  <h1>Desenvolvedor Fullstack JavaScript</h1>
+  <h1>Desenvolvedor Fullstack Node</h1>
 
   
 <h2>Atualmente trabalho com essas tecnologias:</h2>
