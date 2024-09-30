@@ -1,8 +1,4 @@
-  <h1>Desenvolvedor Fullstack Node</h1>
-
-  
-<h2>Atualmente trabalho com essas tecnologias:</h2>
-
+<h1>Desenvolvedor Web Fullstack</h1>
 ![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/5ad97630-0a25-40b7-af1a-e6568c157904)
 ![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/c46ed376-de1a-4d58-ba13-7af6d9b6259b)
 ![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/ce0d97e6-1b82-417e-ab9c-ecfb5da3ddc7)
