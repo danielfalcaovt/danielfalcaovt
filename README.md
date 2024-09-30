@@ -1,5 +1,17 @@
 <h1>Desenvolvedor Web Fullstack</h1>
-![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/5ad97630-0a25-40b7-af1a-e6568c157904)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
+
 ![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/c46ed376-de1a-4d58-ba13-7af6d9b6259b)
 ![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/ce0d97e6-1b82-417e-ab9c-ecfb5da3ddc7)
 ![image](https://github.com/danielfalcaovt/danielfalcaovt/assets/146419346/219bd0a5-89e8-429b-b1f8-21b4d392a7f7)
