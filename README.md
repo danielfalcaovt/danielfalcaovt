@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielfalcaovt" alt="danielfalcaovt" /></a> </p>
 
-- 🌱 I’m currently learning **clean architecture**
+- 🌱 I’m currently learning **nest js, clean architecture,**
 
 - 👨‍💻 All of my projects are available at [https://deenedev-portfolio.vercel.app](https://deenedev-portfolio.vercel.app)
 
