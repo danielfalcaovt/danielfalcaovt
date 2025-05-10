@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **nest js, clean architecture,**
 
-- 👨‍💻 All of my projects are available at [https://deenedev-portfolio.vercel.app](https://deenedev-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://www.danielfalcao.dev](https://www.danielfalcao.dev)
 
 - 📝 I regularly write articles on [https://www.instagram.com/deenedev](https://www.instagram.com/deenedev)
 
@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **deenedev@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/daniel-falc%C3%A3o-2a2901147/](https://www.linkedin.com/in/daniel-falc%C3%A3o-2a2901147/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/danielfalcaodev/](https://www.linkedin.com/in/danielfalcaodev/)
 
-- ⚡ Fun fact **I play league of legends**
+- ⚡ Fun fact **I am sure typescript will take world control.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
